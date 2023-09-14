@@ -13,6 +13,7 @@
 - 📫 You can reach me here: **oguzdeniz179@gmail.com**
 <p align="left"> <a href="https://twitter.com/oguz_denizx" target="blank"><img src="https://img.shields.io/twitter/follow/oguz_denizx?logo=twitter&style=for-the-badge" alt="oguz_denizx" /></a> </p>
 <h3 align="left">Connect with me:</h3>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oguz-deniz&show_icons=true&theme=dark&locale=en&layout=compact&hide=html,css&langs_count=6" alt="oguz-deniz" /></p>
 <p align="left">
 <a href="https://twitter.com/oguz_denizx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oguz_denizx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/oğuz-deniz-5684211b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oğuz-deniz-5684211b6" height="30" width="40" /></a>
@@ -38,4 +39,4 @@
     &nbsp; <!-- Non-breaking space for height -->
 </div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oguz-deniz&show_icons=true&theme=dark&locale=en&layout=compact&hide=html,css&langs_count=6" alt="oguz-deniz" /></p>
+
