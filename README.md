@@ -33,8 +33,9 @@
     </div>
 </div>
 
-<!-- Add an empty line between the first two images and the last image -->
-<div style="text-align: center; margin-top: 20px;"></div>
+<!-- Add an empty line with centered text -->
+<div style="text-align: center; margin-top: 30px;">
+    &nbsp; <!-- Non-breaking space for height -->
+</div>
 
-<!-- Center the third image -->
-<p align="bottom"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oguz-deniz&show_icons=true&theme=dark&locale=en&layout=compact&hide=html,css&langs_count=6" alt="oguz-deniz" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oguz-deniz&show_icons=true&theme=dark&locale=en&layout=compact&hide=html,css&langs_count=6" alt="oguz-deniz" /></p>
