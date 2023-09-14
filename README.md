@@ -28,3 +28,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oguz-deniz&theme=dark&show_icons=true&locale=en" alt="oguz-deniz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguz-deniz&theme=dark" alt="oguz-deniz" /></p>
+
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; margin-right: 10px;">
+        <!-- Most Used Languages Section -->
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguz-deniz&show_icons=true&locale=en&layout=compact&hide=html,css&langs_count=6" alt="oguz-deniz" /></p>
+    </div>
+    <div style="flex: 1;">
+        <!-- GitHub Stats Section -->
+        <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oguz-deniz&show_icons=true&locale=en&hide=stars,issues&count_private=true&theme=radical" alt="oguz-deniz" /></p>
+    </div>
+</div>
