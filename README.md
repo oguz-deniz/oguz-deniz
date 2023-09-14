@@ -37,4 +37,4 @@
 <div style="text-align: center; margin-top: 20px;"></div>
 
 <!-- Center the third image -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oguz-deniz&show_icons=true&theme=dark&locale=en&layout=compact&hide=html,css&langs_count=6" alt="oguz-deniz" /></p>
+<p align="bottom"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oguz-deniz&show_icons=true&theme=dark&locale=en&layout=compact&hide=html,css&langs_count=6" alt="oguz-deniz" /></p>
