@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **AI, Algorithmic Trading, MLOps, Image Processing**
 
-- 📫 You can reach me :**oguzdeniz179@gmail.com**
+- 📫 You can reach me here: **oguzdeniz179@gmail.com**
 <p align="left"> <a href="https://twitter.com/oguz_denizx" target="blank"><img src="https://img.shields.io/twitter/follow/oguz_denizx?logo=twitter&style=for-the-badge" alt="oguz_denizx" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
