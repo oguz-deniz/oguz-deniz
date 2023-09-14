@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/7379292/screenshots/15401203/media/a452ce0193001e90bc3d93853b33f9fa.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oguz-deniz&label=Profile%20views&color=0e75b6&style=flat" alt="oguz-deniz" /> </p>
+
 
 
 
@@ -37,5 +37,5 @@
 <div style="text-align: center; margin-top: 30px;">
     &nbsp; 
 </div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oguz-deniz&label=Profile%20views&color=0e75b6&style=flat" alt="oguz-deniz" /> </p>
 
