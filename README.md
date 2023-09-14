@@ -35,7 +35,7 @@
 
 <!-- Add an empty line with centered text -->
 <div style="text-align: center; margin-top: 20px;">
-    <p>Some Text or Space</p>
+    <p>                                                                                    </p>
 </div>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oguz-deniz&show_icons=true&theme=dark&locale=en&layout=compact&hide=html,css&langs_count=6" alt="oguz-deniz" /></p>
