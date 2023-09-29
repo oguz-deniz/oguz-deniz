@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/7379292/screenshots/15401203/media/a452ce0193001e90bc3d93853b33f9fa.gif">
 
- >  My academic journey has led me to explore various domains such as Data Science, Machine Learning, Computational Finance, Probability Theory & Statistics, as well as Operations Research and Microeconomics. These diverse areas of study have equipped me with a deep understanding of both the financial world and the transformative power of AI. Currently I am improving myself in the fields of Deep Learning, Computer Vision, Image Processing and Database Systems. As a dedicated learner and enthusiast, I'm excited to share my knowledge and experiences with you through this profile. Join me on this journey as we delve into the exciting realms of artificial intelligence, algorithmic finance, and data science.
+> My academic journey has led me to explore various domains such as Data Science, Machine Learning, Computational Finance, Probability Theory & Statistics, as well as Operations Research and Microeconomics. These diverse areas of study have equipped me with a deep understanding of both the financial world and the transformative power of AI. Currently I am improving myself in the fields of Deep Learning, Computer Vision, Image Processing and Database Systems. As a dedicated learner and enthusiast, I'm excited to share my knowledge and experiences with you through this profile. Join me on this journey as we delve into the exciting realms of artificial intelligence, algorithmic finance, and data science.
 
 - 💬 Ask me about **AI, Algorithmic Trading, MLOps, Computational Finance**
 
