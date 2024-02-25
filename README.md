@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/7379292/screenshots/15401203/media/a452ce0193001e90bc3d93853b33f9fa.gif">
 
-  My academic journey has led me to explore various domains such as Data Science, Machine Learning, Computational Finance, Computer Vision as well as Operations Research and Computer Networks. These diverse areas of study have equipped me with a deep understanding of the transformative power of AI. Currently I am improving myself in the fields of Deep Learning, Computer Vision, Image Processing and Algorithms. As a dedicated learner and enthusiast, I'm excited to share my knowledge and experiences with you through this profile.
+  My academic journey has led me to explore various domains such as Data Science, Machine Learning, Computational Finance, Computer Vision as well as Operations Research and Computer Networks. These diverse areas of study have equipped me with a deep understanding of the transformative power of AI. Currently I am improving myself in the fields of Deep Learning, Computer Vision, Naturel Language Processing and Algorithms. As a dedicated learner and enthusiast, I'm excited to share my knowledge and experiences with you through this profile.
 
 
 - 💬 Ask me about **AI, Algorithmic Trading, MLOps, Computer Vision**
